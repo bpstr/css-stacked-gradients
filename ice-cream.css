@@ -1,0 +1,12 @@
+.bg-ice-cream {
+  background-size: 100% 100%;
+  background-position: 0px 0px,0px 0px,0px 0px,0px 0px,0px 0px;
+  background-image: 
+    radial-gradient(49% 81% at 45% 47%, #FFEBB945 0%, #D1D6FF00 100%), 
+    radial-gradient(113% 91% at 17% -2%, #FFCBAFFF 1%, #F0E0D600 99%), 
+    radial-gradient(142% 91% at 83% 7%, #FFF6A8FF 1%, #F0E0D600 99%), 
+    radial-gradient(142% 91% at -6% 74%, #FFB6DAFF 1%, #F0E0D600 99%), 
+    radial-gradient(142% 91% at 111% 84%, #FFD5AFFF 0%, #FFB2B2FF 100%);
+
+
+}
